@@ -1,0 +1,16 @@
+# Studio files
+*.iml
+.gradle
+/local.properties
+
+# IDEA files
+/.idea/**
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+#SCM files
+
