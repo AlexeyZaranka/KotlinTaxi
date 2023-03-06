@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">taxi</string>
+    <string name="b_add">Add</string>
 </resources>
